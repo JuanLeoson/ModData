@@ -1,1 +1,1 @@
-Detected=Destroy All
+Detected=;6,Destroy All;

@@ -1,1 +1,1 @@
-Destroy All
+Detected=Destroy All

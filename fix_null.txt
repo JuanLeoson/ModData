@@ -1,1 +1,2 @@
 object;16,object;17
+static object;91(Clone)
